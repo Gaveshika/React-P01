@@ -1,0 +1,13 @@
+.paragraph{
+    background-color: brown;
+    border-radius: 10px;
+    width: 80%;
+    height: 100px;   
+}
+
+.textcontent{
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    color:black;
+    margin-left: 20px;
+}
